@@ -47,7 +47,3 @@ europe['italy'] = data
 
 # Print europe
 print(europe)
-
-
-
-
