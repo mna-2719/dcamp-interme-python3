@@ -38,7 +38,3 @@ else :
 # Print out dice and step
 print(dice)
 print(step)
-
-
-
-
