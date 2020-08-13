@@ -33,6 +33,3 @@ plt.hist(life_exp1950, bins=15)
 # Show and clear plot again
 plt.show()
 plt.clf()
-
-
-
