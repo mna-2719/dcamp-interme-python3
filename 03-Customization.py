@@ -95,6 +95,3 @@ plt.grid(True)
 
 # Show the plot
 plt.show()
-
-
-
