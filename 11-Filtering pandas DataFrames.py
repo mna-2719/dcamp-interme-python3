@@ -52,7 +52,3 @@ medium = cars[between]
 
 # Print medium
 print(medium)
-
-
-
-
